@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1fc2d52d099a7ff4f9637a96e89c0674, type: 3}
+  m_Name: Gameboy
+  m_EditorClassIdentifier: 
+  veryLightTone:
+    serializedVersion: 2
+    rgba: 15004642
+  lightTone:
+    serializedVersion: 2
+    rgba: 4514708
+  darkTone:
+    serializedVersion: 2
+    rgba: 9406278
+  veryDarkTone:
+    serializedVersion: 2
+    rgba: 5254195
+  ditherSpread: 0.8
